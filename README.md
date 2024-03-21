@@ -1,4 +1,4 @@
-# Diplomado en Ciencia de Datos 2022
+# Diplomado en Ciencia de Datos 2023
 
 Repositorio de módulo **Herramientas computacionales para el manejo de datos: Python** del Diplomado de ciencia de datos del MIDE
 
