@@ -42,7 +42,7 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
 Para descargar el repositorio para la rama ```ccm-2023``` utiliza la instrucción:
 
 ```
-git clone -b edicion-2023 https://github.com/milocortes/diplomado_ciencia_datos_mide.git
+git clone -b https://github.com/marcoscastanedac/diplomado_ciencia_datos.git
 ```
 
 ## Recursos adicionales
