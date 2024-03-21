@@ -39,7 +39,7 @@ Repositorio de módulo **Herramientas computacionales para el manejo de datos: P
 
 ## Descarga del repositorio
 
-Para descargar el repositorio para la rama ```ccm-2023``` utiliza la instrucción:
+Para descargar el repositorio utiliza la instrucción:
 
 ```
 git clone -b https://github.com/marcoscastanedac/diplomado_ciencia_datos.git
